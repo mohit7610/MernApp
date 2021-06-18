@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MernApp/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/MernApp/static/js/main.48de0794.chunk.js",
+    "main.js.map": "/MernApp/static/js/main.48de0794.chunk.js.map",
+    "runtime-main.js": "/MernApp/static/js/runtime-main.49341dea.js",
+    "runtime-main.js.map": "/MernApp/static/js/runtime-main.49341dea.js.map",
+    "static/css/2.5663ff7d.chunk.css": "/MernApp/static/css/2.5663ff7d.chunk.css",
+    "static/js/2.99ecc155.chunk.js": "/MernApp/static/js/2.99ecc155.chunk.js",
+    "static/js/2.99ecc155.chunk.js.map": "/MernApp/static/js/2.99ecc155.chunk.js.map",
+    "static/js/3.cd99c083.chunk.js": "/MernApp/static/js/3.cd99c083.chunk.js",
+    "static/js/3.cd99c083.chunk.js.map": "/MernApp/static/js/3.cd99c083.chunk.js.map",
+    "index.html": "/MernApp/index.html",
+    "static/css/2.5663ff7d.chunk.css.map": "/MernApp/static/css/2.5663ff7d.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/MernApp/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.99ecc155.chunk.js.LICENSE.txt": "/MernApp/static/js/2.99ecc155.chunk.js.LICENSE.txt",
+    "static/media/login.8d6570ba.png": "/MernApp/static/media/login.8d6570ba.png",
+    "static/media/register.4337c699.png": "/MernApp/static/media/register.4337c699.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49341dea.js",
+    "static/css/2.5663ff7d.chunk.css",
+    "static/js/2.99ecc155.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.48de0794.chunk.js"
+  ]
+}
